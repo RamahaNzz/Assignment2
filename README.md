@@ -4,7 +4,27 @@
 * **NIM:** 202310370311186  
 * **Kelas:** Pemrograman Mobile C
 
----
+## 🧱 Struktur Folder
+
+```
+lib/
+ ├── binding/
+ │    ├── login_binding.dart
+ │    ├── signup_binding.dart
+ │    └── profile_binding.dart
+ ├── controller/
+ │    ├── login_controller.dart
+ │    ├── signup_controller.dart
+ │    └── profile_controller.dart
+ ├── view/
+ │    ├── login_view.dart
+ │    ├── signup_view.dart
+ │    └── profile_view.dart
+ ├── routes/
+ │    ├── app_pages.dart
+ │    └── app_routes.dart
+ └── main.dart
+```
 
 ## 🧭 Penjelasan Singkat
 
@@ -115,29 +135,6 @@ Buka file `ios/Runner/Info.plist` dan tambahkan:
    <br>
    <img width="443" height="1014" alt="Lokasi" src="https://github.com/user-attachments/assets/b39fd33f-3cf5-45ea-82e6-5bb759bdf3a4" />
 
----
-
-## 🧱 Struktur Folder
-
-```
-lib/
- ├── binding/
- │    ├── login_binding.dart
- │    ├── signup_binding.dart
- │    └── profile_binding.dart
- ├── controller/
- │    ├── login_controller.dart
- │    ├── signup_controller.dart
- │    └── profile_controller.dart
- ├── view/
- │    ├── login_view.dart
- │    ├── signup_view.dart
- │    └── profile_view.dart
- ├── routes/
- │    ├── app_pages.dart
- │    └── app_routes.dart
- └── main.dart
-```
 
 ---
 ✨ **Dibuat dengan semangat Super Saiyan!** ⚡
